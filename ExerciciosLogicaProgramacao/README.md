@@ -1,0 +1,1 @@
+Este repositório foi criado para a administração e registro de minha evolução em revisão em lógica de programação agora em Java. Já que o curso de lógica de programação que já havia feito foi em python, e na faculdade eu vi em portugol e um pouco em java.
